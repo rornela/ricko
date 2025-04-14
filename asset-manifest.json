@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/ricko/static/css/main.69162ec1.css",
-    "main.js": "/ricko/static/js/main.36a59abe.js",
+    "main.css": "/ricko/static/css/main.9a1fe345.css",
+    "main.js": "/ricko/static/js/main.3498ffb0.js",
     "static/js/453.8bdfd06b.chunk.js": "/ricko/static/js/453.8bdfd06b.chunk.js",
     "static/media/home.mp4": "/ricko/static/media/home.e015d5f4069c6c10b0e9.mp4",
     "static/media/cup.png": "/ricko/static/media/cup.06f41270f3043a12de1e.png",
     "static/media/cuppng.png": "/ricko/static/media/cuppng.902a5c224c14e7cfdc07.png",
+    "static/media/objects-flyer.png": "/ricko/static/media/objects-flyer.35f70dc315120105be19.png",
     "static/media/barcelona.jpeg": "/ricko/static/media/barcelona.2e60c49168a1ae42c5a1.jpeg",
     "static/media/R.png": "/ricko/static/media/R.f06b6bf63e812beb9400.png",
     "index.html": "/ricko/index.html",
-    "main.69162ec1.css.map": "/ricko/static/css/main.69162ec1.css.map",
-    "main.36a59abe.js.map": "/ricko/static/js/main.36a59abe.js.map",
+    "main.9a1fe345.css.map": "/ricko/static/css/main.9a1fe345.css.map",
+    "main.3498ffb0.js.map": "/ricko/static/js/main.3498ffb0.js.map",
     "453.8bdfd06b.chunk.js.map": "/ricko/static/js/453.8bdfd06b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69162ec1.css",
-    "static/js/main.36a59abe.js"
+    "static/css/main.9a1fe345.css",
+    "static/js/main.3498ffb0.js"
   ]
 }
